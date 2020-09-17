@@ -2,3 +2,4 @@ Change made by developer1..
 changes made by developer2.
 changes made to understand .git....:)
 changes made by master branch.
+Testing the git merging..
