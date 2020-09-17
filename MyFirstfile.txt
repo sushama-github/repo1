@@ -1,1 +1,3 @@
 Change made by developer1..
+Changes made to understand .git...
+Modify in cdt branch.
